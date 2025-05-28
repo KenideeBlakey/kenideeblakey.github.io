@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Kenidee Blakey
 description: CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
+  - "🎓 Graduated Senior Psychology, Research major @ Morgan State University"
   - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
+  - "📍 From Atlanta, GA"
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/taquavian-johnson/
