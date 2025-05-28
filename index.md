@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/taquavian-johnson/
-image: /assets/images/profile.JPG
+image: /assets/images/profile.jpg
 ---
