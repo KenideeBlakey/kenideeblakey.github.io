@@ -3,28 +3,25 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Skin cancer detection
+project_title: "Trustworthy Multimodel AI for Skin Cancer Detection"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
-
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  Our problem is that early skin cancer detection for melanated people is a challenge in healthcare. This is due to diagnostic biases, and limited access to skin care resources like a dermatologist. Dermatology AI tools that have been used for decades lack fairness and generaliziblity across diverse populations. 
 
 approach: |
-  The project follows a four-phase pipeline:
+  The project follows 2 month period:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
+  - Conducting literature review on skin cancer 
+  - Learning about existing AI machines and its approaches 
+  - Practicing data sets and anaylisis 
+  - Performing basic exploratory data analysis 
 
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  Literature review tasks, Python tutorial tasks, Dataset and data analysis, Models and writing resources will all be used to ensure we have thorough information
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  TBD
 
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
   name: Jamal Carter
