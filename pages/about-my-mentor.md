@@ -4,18 +4,18 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
+  name: Blessing Adeika 
+  title: Graduate Student / Certified Aritifical Intelligence Engineer
+  image: 
   website: https://gradmentor.example.com
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Blessing Adeika is a Morgan Alumna and specializies in Certified Artifical Intelligence Enginerring. She is a highly movivated data scientist with a background in deeping learning, machine learning and web development. As a data scientist she strives to contribute to cutting - edge projects and solving complex problems using advanced analytical techniques 
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Beyond the lab, Blessing Adeika will be my hands on mentor for my research project "Trustworthy Multimodal Ai for Skin Cancer Detection" summer project. 
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Saroj Pramanik
+  title: Professor 
   image: /assets/images/faculty-mentor.jpg
   website: https://facultymentor.example.com
   bio: |
