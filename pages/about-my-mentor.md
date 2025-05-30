@@ -7,7 +7,7 @@ graduate_mentor:
   name: Blessing Adeika 
   title: Graduate Student / Certified Aritifical Intelligence Engineer
   image: 
-  website: https://gradmentor.example.com
+  website: https://www.linkedin.com/in/blessing-isoyiza-adeika/
   bio: |
     Blessing Adeika is a Morgan Alumna and specializies in Certified Artifical Intelligence Enginerring. She is a highly movivated data scientist with a background in deeping learning, machine learning and web development. As a data scientist she strives to contribute to cutting - edge projects and solving complex problems using advanced analytical techniques 
     
@@ -16,11 +16,11 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Saroj Pramanik
   title: Professor 
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  image: 
+  website: SAROJ.PRAMANIK@MORGAN.EDU
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Saroj Pramanik is an associate professsor at Morgan State University. He teaches biology in Key hall. 
+
+      Beyond the lab. Dr. Saroj Premanik will be our faculty mentor for this summer research project. He will be giving insight on the science behind cancerous cells.
 
 ---
