@@ -11,7 +11,7 @@ about:
   bio: |
     I am currently a graduated senior from Morgan State University as of May 2025. I graduated with my Bachelors of Science. Majoring in Psychology with a concentration in research.
 
-    When I’m not working on research, I enjoy writing and doing photography. In my spare time you will find me at a cafe in my zone.
+    When I’m not working on research, I enjoy writing and doing photography. In my spare time you will find me at a cafe in my zone. I aldo love shopping, specfically at thrift stores.
 
   hobbies:
     - icon: 📷
