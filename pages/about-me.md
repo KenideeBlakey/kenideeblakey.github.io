@@ -17,7 +17,7 @@ about:
     - icon: 📷
       title: Photography.
       description: I've been doing photography for about 2 years now.
-    - Writing
+    - writing
       description: I love reading and writing.
 
   gallery:
