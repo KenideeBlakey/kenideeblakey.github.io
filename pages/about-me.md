@@ -15,7 +15,7 @@ about:
 
   hobbies:
     - icon: 📷
-      title: Photography.
+      title: Photography. 
       description: I've been doing photography for about 2 years now.
     - writing
       description: I love reading and writing.
