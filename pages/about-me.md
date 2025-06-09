@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Kenidee Blakey
   role: Psychology Concentration in research, Graduate from Morgan State University
-  image: /assets/profile.JPG
+  image: /assets/images/profile.JPG
   linkedin: https://www.linkedin.com/in/kenidee-blakey-085912255/
   bio: |
     I am currently a graduated senior from Morgan State University as of May 2025. I graduated with my Bachelors of Science. Majoring in Psychology with a concentration in research.
