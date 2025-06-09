@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Blessing Adeika 
   title: Graduate Student / Certified Aritifical Intelligence Engineer
-  image: assets/images/blessing.HEIC
+  image: /assets/images/blessing.jpg
   website: https://www.linkedin.com/in/blessing-isoyiza-adeika/
   bio: |
     Blessing Adeika is a Morgan Alumna and specializies in Certified Artifical Intelligence Enginerring. She is a highly movivated data scientist with a background in deeping learning, machine learning and web development. As a data scientist she strives to contribute to cutting - edge projects and solving complex problems using advanced analytical techniques 
@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Saroj Pramanik
   title: Professor 
-  image: assets/images/PramanikS.HEIC
+  image: /assets/images/PramanikS.jpg
   website: SAROJ.PRAMANIK@MORGAN.EDU
   bio: |
     Dr. Saroj Pramanik is an associate professsor at Morgan State University. He teaches biology in Key hall. 
